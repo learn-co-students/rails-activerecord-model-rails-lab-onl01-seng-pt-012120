@@ -5,8 +5,8 @@ source 'https://rubygems.org'
 gem 'rails'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~>1.3.6'
-gem 'nokogiri', '1.8'
-# Use SCSS for stylesheets
+gem 'nokogiri', '1.10.9'
+# Use SCSS for stylesheet
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
